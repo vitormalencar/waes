@@ -1,0 +1,11 @@
+.results {
+  padding: 0px 0px;
+  list-style-type: none;
+  border: 1px solid black;
+  height: 250px;
+  width: 100%;
+}
+
+.results > * + * {
+  padding-top: 8px;
+}
