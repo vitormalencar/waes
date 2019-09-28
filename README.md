@@ -2,7 +2,7 @@
 Waes
 <br>
 </h1>
-
+<h1 align="center">
 <a href="https://circleci.com/gh/vitormalencar/waes/">
   <img src="https://circleci.com/gh/vitormalencar/waes/tree/master.svg?style=svg" alt="circleCi">
 </a>
@@ -12,7 +12,7 @@ Waes
 <a href="https://github.com/prettier/prettier">
   <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" alt="code style: prettier" />
 </a>
-
+</h1>
 ## Stack
 
 - React
