@@ -1,0 +1,27 @@
+.wrapper {
+  position: relative;
+  padding: 32px 0px;
+}
+.text {
+  height: 250px;
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.2;
+  z-index: -1;
+  overflow: scroll;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+
+  background: transparent;
+  resize: none;
+  overflow: hidden;
+}
+.highlight {
+  position: absolute;
+  color: transparent;
+  padding: 2px;
+  width: calc(100% - 64px);
+  transform: translateY(calc(-100% - 4px));
+  flex-direction: column;
+}
