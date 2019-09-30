@@ -55,7 +55,7 @@ Runs your application (from the `dist` directory) in the browser.
 #### TEST
 
 ```
-$ npm run TEST
+$ npm run test
 ```
 
 runs tests
