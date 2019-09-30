@@ -20,8 +20,9 @@
 .highlight {
   position: absolute;
   color: transparent;
-  padding: 2px;
+  padding: 0px 3px;
   width: calc(100% - 64px);
   transform: translateY(calc(-100% - 4px));
   flex-direction: column;
+  width: 100%;
 }
