@@ -15,6 +15,8 @@ Waes
 
 ## Stack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vitormalencar/waes.svg)](https://greenkeeper.io/)
+
 - React
 - Redux
 - Redux-actions
